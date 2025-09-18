@@ -47,7 +47,7 @@ Next, set up environment variables for your email account, for example:
     export SMTP_PORT="465"
     export SMTP_USER="your_email@gmail.com"
     export SMTP_PASSWORD="your_email_password"
-    export EMAIL_TO="inbum.hur@samsung.com,kwachonite@hotmail.com"
+    export EMAIL_TO=" example.com"
 
 You can then schedule the script to run every hour using cron or
 the ``schedule`` module (the scheduling code is included but
